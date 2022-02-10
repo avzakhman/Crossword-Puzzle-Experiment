@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 10vh;
+    width: 1140px;
+    height: 80vh;
+    border: solid 5px #C4C4C4;
+}
+
+@import 'blocks/page';
+@import 'blocks/crossword';
